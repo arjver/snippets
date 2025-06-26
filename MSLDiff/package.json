@@ -1,0 +1,11 @@
+{
+  "name": "msldiff",
+  "version": "1.0.0",
+  "description": "Mappy String Line Diff - simple string diffing and diff application",
+  "keywords": [
+    "diff",
+    "string"
+  ],
+  // "author": "arjver",
+  "license": "MIT"
+}
